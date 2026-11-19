@@ -1,0 +1,27 @@
+﻿Anzeigen?;Überschrift;Kleine Zeile über der Überschrift;Satz 1;Satz 2;Satz 3;Satz 4;Satz 5;Bild / Piktogramm;Farbe;Sekunden;Zeigen ab;Zeigen bis
+"↓ ja = Folie wird gezeigt
+nein = Folie ist versteckt";"Die große Überschrift.
+Kurz! Höchstens ca. 30 Zeichen.";"Kleine blaue Zeile über der Überschrift.
+Darf leer bleiben.";"Erster kurzer Satz.
+Höchstens ca. 60 Zeichen.";"Zweiter Satz.
+Darf leer bleiben.";"Dritter Satz.
+Darf leer bleiben.";"Vierter Satz.
+Darf leer bleiben.";"Fünfter Satz.
+Darf leer bleiben.";"Bild links auf der Folie.
+Aus Liste wählen (siehe Blatt „Piktogramme“) oder eigenes Bild: bilder/name.png";"Farbe von Rahmen und Punkten.
+Normal: blau
+Warnung: rot";"Wie lange die Folie zu sehen ist.
+Leer = 18";"Erst ab diesem Tag zeigen.
+TT.MM.JJJJ
+Leer = sofort";"Nach diesem Tag verschwindet die Folie.
+TT.MM.JJJJ
+Leer = immer"
+ja;Herzlich willkommen!;Albert-Schweitzer-Einrichtungen Dinslaken;Sie sind hier an der Anmeldung.;Bitte melden Sie sich bei uns.;Wir helfen Ihnen gern weiter.;;;hallo;blau;18;;
+ja;Das ist die ASE;Wer sind wir?;Wir unterstützen Menschen mit Behinderung.;Unser Ziel: Teilhabe am Leben.;Bei Arbeit, Bildung und Wohnen.;;;menschen;blau;18;;
+ja;Arbeit;Werkstatt;Arbeitsplätze im Handwerk;Arbeitsplätze im Service;Arbeitsplätze in Betrieben;;;werkstatt;blau;18;;
+ja;Berufliche Bildung;Lernen für den Beruf;Erst-Einstieg und Wieder-Einstieg;Lernen in verschiedenen Berufs-Feldern;;;;bildung;gruen;18;;
+ja;Wohnen;Wohnen und Teilhabe;Vier Wohn-Stätten;Ambulantes Wohnen;;;;wohnen;orange;18;;
+ja;KoKoBe;Beratung und Café;Wir beraten Sie.;Im Café kann man sich treffen.;;;;beratung;lila;18;;
+ja;Kinder und Familie;Für die Kleinen;Kitas;Frühförderung (IFF);;;;kinder;gelb;18;;
+ja;Für Firmen und Privat-Kunden;Das machen wir für Sie;Schreinerei;Wäscherei;Garten- und Landschafts-Bau;Aktenvernichtung;Kaminholz;firma;grau;18;;
+ja;Wichtiger Hinweis;Adventszauber;Der Adventszauber fällt dieses Jahr aus.;Grund: Sanierungs-Arbeiten.;;;;hinweis;rot;18;;24.12.2026

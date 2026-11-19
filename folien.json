@@ -1,0 +1,159 @@
+{
+ "art": "ASE-Infotafel-Sicherung",
+ "stand": "2026-11-18T13:54:20.550Z",
+ "folien": [
+  {
+   "aktiv": true,
+   "titel": "Herzlich willkommen!",
+   "untertitel": "Albert-Schweitzer-Einrichtungen Dinslaken",
+   "punkte": [
+    "Sie sind hier an der Anmeldung.",
+    "Bitte melden Sie sich bei uns.",
+    "Wir helfen Ihnen gern weiter.",
+    "",
+    ""
+   ],
+   "symbol": "hallo",
+   "farbe": "blau",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Das ist die ASE",
+   "untertitel": "Wer sind wir?",
+   "punkte": [
+    "Wir unterstützen Menschen mit Behinderung.",
+    "Unser Ziel: Teilhabe am Leben.",
+    "Bei Arbeit, Bildung und Wohnen.",
+    "",
+    ""
+   ],
+   "symbol": "menschen",
+   "farbe": "blau",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Arbeit",
+   "untertitel": "Werkstatt",
+   "punkte": [
+    "Arbeitsplätze im Handwerk",
+    "Arbeitsplätze im Service",
+    "Arbeitsplätze in Betrieben",
+    "",
+    ""
+   ],
+   "symbol": "werkstatt",
+   "farbe": "blau",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Berufliche Bildung",
+   "untertitel": "Lernen für den Beruf",
+   "punkte": [
+    "Erst-Einstieg und Wieder-Einstieg",
+    "Lernen in verschiedenen Berufs-Feldern",
+    "",
+    "",
+    ""
+   ],
+   "symbol": "bildung",
+   "farbe": "gruen",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Wohnen",
+   "untertitel": "Wohnen und Teilhabe",
+   "punkte": [
+    "Vier Wohn-Stätten",
+    "Ambulantes Wohnen",
+    "",
+    "",
+    ""
+   ],
+   "symbol": "wohnen",
+   "farbe": "orange",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "KoKoBe",
+   "untertitel": "Beratung und Café",
+   "punkte": [
+    "Wir beraten Sie.",
+    "Im Café kann man sich treffen.",
+    "",
+    "",
+    ""
+   ],
+   "symbol": "beratung",
+   "farbe": "lila",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Kinder und Familie",
+   "untertitel": "Für die Kleinen",
+   "punkte": [
+    "Kitas",
+    "Frühförderung (IFF)",
+    "",
+    "",
+    ""
+   ],
+   "symbol": "kinder",
+   "farbe": "gelb",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Für Firmen und Privat-Kunden",
+   "untertitel": "Das machen wir für Sie",
+   "punkte": [
+    "Schreinerei",
+    "Wäscherei",
+    "Garten- und Landschafts-Bau",
+    "Aktenvernichtung",
+    "Kaminholz"
+   ],
+   "symbol": "firma",
+   "farbe": "grau",
+   "sekunden": 18,
+   "von": "",
+   "bis": ""
+  },
+  {
+   "aktiv": true,
+   "titel": "Wichtiger Hinweis",
+   "untertitel": "Adventszauber",
+   "punkte": [
+    "Der Adventszauber fällt dieses Jahr aus.",
+    "Grund: Sanierungs-Arbeiten.",
+    "",
+    "",
+    ""
+   ],
+   "symbol": "hinweis",
+   "farbe": "rot",
+   "sekunden": 18,
+   "von": "",
+   "bis": "24.12.2026"
+  }
+ ]
+}

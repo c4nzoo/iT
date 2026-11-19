@@ -1,0 +1,32 @@
+ASE Dinslaken – Infotafel für den Fernseher an der Anmeldung
+=============================================================
+
+INHALT DIESES ORDNERS
+  index.html     Die Infotafel (Diashow, Uhr, Bearbeitungsebene)
+  infotafel.js   Programmcode: Symbole, Farben, Laden der Folien
+  logo.png       ASE-Logo
+  folien.json    Aktuelle Folieninhalte (wird bei Änderungen ersetzt)
+  folien.csv     Ersatz-Inhalt, falls folien.json fehlt
+
+INSTALLATION
+  - Alle 5 Dateien zusammen in EINEN Ordner auf einem Webserver legen,
+    z. B. /infotafel/ (Apache, nginx, IIS – egal).
+  - Es ist eine reine statische Webseite: kein PHP, keine Datenbank,
+    kein Node, keine Internetverbindung nötig (läuft auch nur im internen Netz).
+  - Die Seite muss über http:// oder https:// aufgerufen werden
+    (nicht per Doppelklick als Datei), sonst werden die Folien nicht geladen.
+  - Am Fernseher die Adresse des Ordners im Browser öffnen,
+    z. B. http://servername/infotafel/
+
+INHALTE ÄNDERN
+  1. Seite am PC öffnen, ASE-Logo 2 Sekunden gedrückt halten
+     (oder 5x schnell anklicken), PIN eingeben.
+  2. Folien bearbeiten, „Speichern“, dann „Als Datei speichern (folien.json)“.
+  3. Die heruntergeladene folien.json im Server-Ordner ersetzen.
+     Dateiname muss exakt „folien.json“ lauten (klein geschrieben, ohne „(1)“).
+  4. Der Fernseher lädt die neue Datei automatisch (alle 2 Minuten).
+
+HINWEISE
+  - Keine personenbezogenen Daten enthalten.
+  - Die PIN wird vom Projektverantwortlichen mitgeteilt.
+  - Bilder, die über die Bearbeitungsebene eingefügt werden, sind in folien.json enthalten.
